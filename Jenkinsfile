@@ -29,7 +29,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                    sh 'docker run -itd --name finbank -p 80:8090 techomaniac83/finbankimgaddbook:latest'
+                    sh 'docker run -itd --name finbank -p 9090:8090 techomaniac83/finbankimgaddbook:latest'
                 }
             }
     }
