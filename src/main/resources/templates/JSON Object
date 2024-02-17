@@ -1,6 +1,54 @@
 {
-    "accountNumber": 1010101010,
-    "accountName": "Shubham",
+    "accountNumber": 12345601,
+    "accountName": "Raghav",
     "accountType": "Saving Account",
-    "accountBalance": 20000
+    "accountBalance": 2550000
+}
+{
+    "accountNumber": 12345602,
+    "accountName": "Muzammil",
+    "accountType": "Saving Account",
+    "accountBalance": 250000
+}
+{
+    "accountNumber": 12345603,
+    "accountName": "Gokul",
+    "accountType": "Saving Account",
+    "accountBalance": 897845
+}
+{
+    "accountNumber": 12345604,
+    "accountName": "Sridhar",
+    "accountType": "Saving Account",
+    "accountBalance": 7852245
+}
+{
+    "accountNumber": 12345605,
+    "accountName": "Aniket",
+    "accountType": "Saving Account",
+    "accountBalance": 1802154
+}
+{
+    "accountNumber": 12345606,
+    "accountName": "Sabarish",
+    "accountType": "Saving Account",
+    "accountBalance": 325451
+}
+{
+    "accountNumber": 12345607,
+    "accountName": "Padmavati",
+    "accountType": "Saving Account",
+    "accountBalance": 215466
+}
+{
+    "accountNumber": 12345608,
+    "accountName": "Ruchita",
+    "accountType": "Saving Account",
+    "accountBalance": 659812
+}
+{
+    "accountNumber": 12345608,
+    "accountName": "Madhuri Sai",
+    "accountType": "Saving Account",
+    "accountBalance": 45887
 }
